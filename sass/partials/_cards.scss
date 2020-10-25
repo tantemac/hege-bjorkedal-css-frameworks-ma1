@@ -1,0 +1,25 @@
+.card__item {
+	background-color: $primary;
+	width: 264px !important;
+	height: 264px !important;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+.card__item---white {
+	background-color: $white;
+	border: solid 3px $pink;
+	width: 261px !important;
+	height: 261px !important;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+.card__item---pink {
+	background-color: $pink;
+	border: solid 3px $white;
+	width: 262px !important;
+	height: 262px !important;
+	margin: 20px;
+	border-radius: 15px;
+}
